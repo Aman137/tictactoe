@@ -1,2 +1,2 @@
 # tictactoe
-X &amp; 0  game play &amp; enjoy the game user
+X &amp; 0  game play &amp; also enjoy the games.
